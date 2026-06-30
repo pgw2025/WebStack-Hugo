@@ -1,11 +1,11 @@
-baseURL               = "http://100.88.88.1:1313/"
+baseURL               = "https://101.200.235.216"
 languageCode          = "zh-CN"
 title                 = "网址导航"
 theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower    = true
 hasCJKLanguage        = true
-publishDir            = "public"				# 站点静态文件保存目录
+publishDir            = "public"			# 站点静态文件保存目录
 
 
 [params]
