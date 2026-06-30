@@ -1,4 +1,4 @@
-baseURL               = "https://101.200.235.216"
+baseURL               = "https://wdaohang.netlify.app/"
 languageCode          = "zh-CN"
 title                 = "网址导航"
 theme                 = "WebStack-Hugo"
